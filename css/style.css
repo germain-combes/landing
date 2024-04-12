@@ -29,9 +29,13 @@ a {
 }
 
 #para1 {
-	margin-top: 10px;
+	margin-top: 20px;
 }
 
 #logo {
-	align-items: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 10%;
+  height: auto;
 }
